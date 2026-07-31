@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<claims>
+    <claim>
+        <claim_id>CL001</claim_id>
+        <customer_id>C001</customer_id>
+        <claim_type>Hospitalization</claim_type>
+        <amount>75000</amount>
+        <date>2026-07-01</date>
+        <status>Pending</status>
+    </claim>
+    <claim>
+        <claim_id>CL002</claim_id>
+        <customer_id>C002</customer_id>
+        <claim_type>Life Insurance</claim_type>
+        <amount>150000</amount>
+        <date>2026-07-03</date>
+        <status>Approved</status>
+    </claim>
+    <claim>
+        <claim_id>CL003</claim_id>
+        <customer_id>C003</customer_id>
+        <claim_type>Vehicle Damage</claim_type>
+        <amount>45000</amount>
+        <date>2026-07-05</date>
+        <status>Pending</status>
+    </claim>
+    <claim>
+        <claim_id>CL004</claim_id>
+        <customer_id>C004</customer_id>
+        <claim_type>Medical Treatment</claim_type>
+        <amount>60000</amount>
+        <date>2026-07-07</date>
+        <status>Approved</status>
+    </claim>
+    <claim>
+        <claim_id>CL005</claim_id>
+        <customer_id>C999</customer_id>
+        <claim_type>Hospitalization</claim_type>
+        <amount>85000</amount>
+        <date>2026-07-10</date>
+        <status>Pending</status>
+    </claim>
+    <claim>
+        <claim_id>CL006</claim_id>
+        <customer_id>C005</customer_id>
+        <claim_type>Vehicle Accident</claim_type>
+        <amount>95000</amount>
+        <date>2026-07-12</date>
+        <status>Pending</status>
+    </claim>
+    <claim>
+        <claim_id>CL007</claim_id>
+        <customer_id>C888</customer_id>
+        <claim_type>Property Damage</claim_type>
+        <amount>120000</amount>
+        <date>2026-07-15</date>
+        <status>Pending</status>
+    </claim>
+</claims>

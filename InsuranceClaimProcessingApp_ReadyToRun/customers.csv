@@ -1,0 +1,8 @@
+customer_id,name,age,policy_number,policy_type
+C001,Arun Kumar,35,P1001,Health
+C002,Priya Sharma,29,P1002,Life
+C003,Rahul Kumar,42,P1003,Vehicle
+C004,Divya S,31,P1004,Health
+C005,Karthik R,38,P1005,Vehicle
+C006,Meena P,45,P1006,Life
+C007,Vignesh S,33,P1007,Health
