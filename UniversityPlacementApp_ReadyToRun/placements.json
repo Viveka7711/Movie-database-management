@@ -1,0 +1,46 @@
+{
+    "placements": [
+        {
+            "student_id": 101,
+            "company": "TCS",
+            "package": 6.5,
+            "status": "Placed"
+        },
+        {
+            "student_id": 102,
+            "company": "Infosys",
+            "package": 5.8,
+            "status": "Placed"
+        },
+        {
+            "student_id": 104,
+            "company": "Accenture",
+            "package": 7.2,
+            "status": "Placed"
+        },
+        {
+            "student_id": 105,
+            "company": "Zoho",
+            "package": 8.0,
+            "status": "Placed"
+        },
+        {
+            "student_id": 107,
+            "company": "Wipro",
+            "package": 5.5,
+            "status": "Placed"
+        },
+        {
+            "student_id": 108,
+            "company": "TCS",
+            "package": 6.8,
+            "status": "Placed"
+        },
+        {
+            "student_id": 109,
+            "company": "Cognizant",
+            "package": 5.2,
+            "status": "Placed"
+        }
+    ]
+}
