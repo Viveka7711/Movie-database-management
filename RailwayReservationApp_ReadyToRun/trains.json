@@ -1,0 +1,36 @@
+{
+    "trains": [
+        {
+            "train_number": "12601",
+            "train_name": "Chennai Express",
+            "source": "Chennai",
+            "destination": "Mumbai",
+            "departure": "06:00",
+            "arrival": "22:30"
+        },
+        {
+            "train_number": "12602",
+            "train_name": "Chennai Mail",
+            "source": "Chennai",
+            "destination": "New Delhi",
+            "departure": "08:30",
+            "arrival": "06:00"
+        },
+        {
+            "train_number": "12001",
+            "train_name": "Shatabdi Express",
+            "source": "Chennai",
+            "destination": "Bangalore",
+            "departure": "05:30",
+            "arrival": "10:45"
+        },
+        {
+            "train_number": "12841",
+            "train_name": "Coromandel Express",
+            "source": "Chennai",
+            "destination": "Kolkata",
+            "departure": "07:00",
+            "arrival": "20:30"
+        }
+    ]
+}

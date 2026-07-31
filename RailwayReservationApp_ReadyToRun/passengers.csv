@@ -1,0 +1,9 @@
+passenger_id,name,age,gender,train_number,seat
+P001,Arun Kumar,25,M,12601,S1-12
+P002,Priya Sharma,22,F,12602,S2-18
+P003,Rahul Kumar,30,M,12001,S3-15
+P004,Divya S,24,F,12601,S1-13
+P005,Karthik R,28,M,12841,S2-20
+P006,Meena P,26,F,99999,S1-10
+P007,Vignesh S,32,M,12001,S3-16
+P008,Anitha R,21,F,12602,S2-19
