@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <id>1</id>
+        <title>Interstellar</title>
+        <genre>Sci-Fi</genre>
+        <year>2014</year>
+    </movie>
+    <movie>
+        <id>2</id>
+        <title>Inception</title>
+        <genre>Sci-Fi</genre>
+        <year>2010</year>
+    </movie>
+    <movie>
+        <id>3</id>
+        <title>3 Idiots</title>
+        <genre>Comedy</genre>
+        <year>2009</year>
+    </movie>
+    <movie>
+        <id>4</id>
+        <title>Joker</title>
+        <genre>Drama</genre>
+        <year>2019</year>
+    </movie>
+    <movie>
+        <id>5</id>
+        <title>Avengers Endgame</title>
+        <genre>Action</genre>
+        <year>2019</year>
+    </movie>
+    <movie>
+        <id>6</id>
+        <title>Parasite</title>
+        <genre>Thriller</genre>
+        <year>2019</year>
+    </movie>
+    <movie>
+        <id>7</id>
+        <title>Vikram</title>
+        <genre>Action</genre>
+        <year>2022</year>
+    </movie>
+    <movie>
+        <id>8</id>
+        <title>Leo</title>
+        <genre>Action</genre>
+        <year>2023</year>
+    </movie>
+</movies>
