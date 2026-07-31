@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "product_id": "M001",
+            "product_name": "Galaxy S24",
+            "brand": "Samsung",
+            "category": "Smartphone",
+            "price": 75000
+        },
+        {
+            "product_id": "M002",
+            "product_name": "iPhone 15",
+            "brand": "Apple",
+            "category": "Smartphone",
+            "price": 70000
+        },
+        {
+            "product_id": "M003",
+            "product_name": "OnePlus 12",
+            "brand": "OnePlus",
+            "category": "Smartphone",
+            "price": 55000
+        },
+        {
+            "product_id": "M004",
+            "product_name": "Pixel 8",
+            "brand": "Google",
+            "category": "Smartphone",
+            "price": 60000
+        },
+        {
+            "product_id": "M005",
+            "product_name": "Redmi Note 13",
+            "brand": "Xiaomi",
+            "category": "Smartphone",
+            "price": 22000
+        },
+        {
+            "product_id": "M006",
+            "product_name": "Nothing Phone 2",
+            "brand": "Nothing",
+            "category": "Smartphone",
+            "price": 42000
+        }
+    ]
+}
